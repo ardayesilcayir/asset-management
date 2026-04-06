@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arda\\Desktop\\asset-management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.domain\\entities\\assetassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|solutionrelative:assetmanagement.domain\\entities\\assetassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA41CF-FA16-40EB-8283-E44CDADE7EA5}|AssetManagement.API\\AssetManagement.API.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ABA41CF-FA16-40EB-8283-E44CDADE7EA5}|AssetManagement.API\\AssetManagement.API.csproj|solutionrelative:assetmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA41CF-FA16-40EB-8283-E44CDADE7EA5}|AssetManagement.API\\AssetManagement.API.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3ABA41CF-FA16-40EB-8283-E44CDADE7EA5}|AssetManagement.API\\AssetManagement.API.csproj|solutionrelative:assetmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ABA41CF-FA16-40EB-8283-E44CDADE7EA5}|AssetManagement.API\\AssetManagement.API.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.api\\assetmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3ABA41CF-FA16-40EB-8283-E44CDADE7EA5}|AssetManagement.API\\AssetManagement.API.csproj|solutionrelative:assetmanagement.api\\assetmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4B6E26-2724-4772-9325-6A6FD1FC91A7}|AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4B6E26-2724-4772-9325-6A6FD1FC91A7}|AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj|solutionrelative:assetmanagement.infrastructure\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4B6E26-2724-4772-9325-6A6FD1FC91A7}|AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.infrastructure\\context\\assetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC4B6E26-2724-4772-9325-6A6FD1FC91A7}|AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj|solutionrelative:assetmanagement.infrastructure\\context\\assetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC4B6E26-2724-4772-9325-6A6FD1FC91A7}|AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.infrastructure\\assetmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC4B6E26-2724-4772-9325-6A6FD1FC91A7}|AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj|solutionrelative:assetmanagement.infrastructure\\assetmanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|solutionrelative:assetmanagement.domain\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.domain\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|solutionrelative:assetmanagement.domain\\entities\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.domain\\entities\\assetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|solutionrelative:assetmanagement.domain\\entities\\assetcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.domain\\enums\\assetstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|solutionrelative:assetmanagement.domain\\enums\\assetstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|solutionrelative:assetmanagement.domain\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|solutionrelative:assetmanagement.domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|c:\\users\\arda\\desktop\\asset-management\\assetmanagement.domain\\assetmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{241CE921-E04B-4D88-8AA9-A1A594E63231}|AssetManagement.Domain\\AssetManagement.Domain.csproj|solutionrelative:assetmanagement.domain\\assetmanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 52,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "AssetManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.API\\Program.cs",
+              "RelativeToolTip": "AssetManagement.API\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T21:00:57.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\AssetAssignment.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Domain\\Entities\\AssetAssignment.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\AssetAssignment.cs",
+              "RelativeToolTip": "AssetManagement.Domain\\Entities\\AssetAssignment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:56:31.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AssetManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.API\\appsettings.json",
+              "RelativeToolTip": "AssetManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-19T19:52:40.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetManagement.API",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.API\\AssetManagement.API.csproj",
+              "RelativeDocumentMoniker": "AssetManagement.API\\AssetManagement.API.csproj",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.API\\AssetManagement.API.csproj",
+              "RelativeToolTip": "AssetManagement.API\\AssetManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T21:03:12.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Infrastructure\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Infrastructure\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Infrastructure\\ServiceRegistration.cs",
+              "RelativeToolTip": "AssetManagement.Infrastructure\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:21:00.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssetDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Infrastructure\\Context\\AssetDbContext.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Infrastructure\\Context\\AssetDbContext.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Infrastructure\\Context\\AssetDbContext.cs",
+              "RelativeToolTip": "AssetManagement.Infrastructure\\Context\\AssetDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T19:06:48.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssetManagement.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj",
+              "RelativeToolTip": "AssetManagement.Infrastructure\\AssetManagement.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T19:05:41.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Domain\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\Employee.cs",
+              "RelativeToolTip": "AssetManagement.Domain\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:56:31.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\Asset.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Domain\\Entities\\Asset.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\Asset.cs",
+              "RelativeToolTip": "AssetManagement.Domain\\Entities\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:56:31.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AssetCategory.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\AssetCategory.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Domain\\Entities\\AssetCategory.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\AssetCategory.cs",
+              "RelativeToolTip": "AssetManagement.Domain\\Entities\\AssetCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:56:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssetStatus.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Enums\\AssetStatus.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Domain\\Enums\\AssetStatus.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Enums\\AssetStatus.cs",
+              "RelativeToolTip": "AssetManagement.Domain\\Enums\\AssetStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:56:31.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Domain\\Entities\\Department.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\Department.cs",
+              "RelativeToolTip": "AssetManagement.Domain\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:56:31.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "AssetManagement.Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "AssetManagement.Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:56:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AssetManagement.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\AssetManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "AssetManagement.Domain\\AssetManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\arda\\Desktop\\asset-management\\AssetManagement.Domain\\AssetManagement.Domain.csproj",
+              "RelativeToolTip": "AssetManagement.Domain\\AssetManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-19T18:56:31.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
