@@ -1,0 +1,91 @@
+# ─────────────────────────────────────────────
+# .NET Build & IDE
+# ─────────────────────────────────────────────
+
+bin/
+obj/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.userprefs
+*.sln.docstates
+*.csproj.user
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# ─────────────────────────────────────────────
+# NuGet
+# ─────────────────────────────────────────────
+
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nupkg
+*.snupkg
+
+# ─────────────────────────────────────────────
+# Test Results
+# ─────────────────────────────────────────────
+
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# ─────────────────────────────────────────────
+# Secrets & Local Configuration
+# ─────────────────────────────────────────────
+
+appsettings.*.local.json
+appsettings.local.json
+secrets.json
+
+# ─────────────────────────────────────────────
+# OS Files
+# ─────────────────────────────────────────────
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+
+# ─────────────────────────────────────────────
+# Logs & Temp
+# ─────────────────────────────────────────────
+
+*.log
+*.tmp
+*.temp
+
+# ─────────────────────────────────────────────
+# Frontend (Next.js / Node)
+# ─────────────────────────────────────────────
+
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.vercel/
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+frontend/.env
+frontend/.env*.local
+
+# ─────────────────────────────────────────────
+# Misc
+# ─────────────────────────────────────────────
+
+*.pyc
+__pycache__/
