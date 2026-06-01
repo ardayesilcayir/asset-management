@@ -7,7 +7,11 @@ namespace AssetManagement.Application.DTOs.Dashboard
         public int AvailableAssets { get; set; }
         public int BrokenAssets { get; set; }
         public int RetiredAssets { get; set; }
+
         public int TotalEmployees { get; set; }
+        public int TotalDepartments { get; set; }
+        public int TotalCategories { get; set; }
+
         public List<CategoryDistributionDto> CategoryDistribution { get; set; } = new();
     }
 
@@ -17,3 +21,4 @@ namespace AssetManagement.Application.DTOs.Dashboard
         public int Count { get; set; }
     }
 }
+
